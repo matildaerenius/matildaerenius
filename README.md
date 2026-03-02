@@ -26,11 +26,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/matildaerenius/matildaerenius/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
-
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matildaerenius&show_icons=true&theme=dark&bg_color=1c1c1c&hide_border=true&title_color=F6FF4C" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matildaerenius&layout=compact&theme=dark&bg_color=1c1c1c&hide_border=true&title_color=F6FF4C" alt="Top Languages" />
-</div>
-
-
-
