@@ -17,8 +17,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://matildaerenius.github.io/portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-F6FF4C?style=for-the-badge&logo=googlechrome&logoColor=black" /> 
+     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=googlechrome&logoColor=white" /> 
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/matildaerenius/matildaerenius/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 
