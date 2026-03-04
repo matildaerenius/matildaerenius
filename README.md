@@ -1,10 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matildaerenius.matildaerenius" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=matildaerenius.matildaerenius&left_text=stalkers" />
 
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F6FF4C&lines=Hi+There!+👋;+I'm+Matilda+Erenius!;" />
 </h1>
 
-<h3 align="center">Java Developer Student from Stockholm 🇸🇪</h3>
+<h3 align="center">Java Developer Student @Nackademin</h3>
+<h4 align="center">Currently doing my internship at The Swedish Public Employment Service | Graduating May 2026 🚀</h4>
 
 <br/>
 
